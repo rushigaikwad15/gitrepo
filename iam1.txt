@@ -1,0 +1,10 @@
+this is iam1 text content for git practice
+this is git tool
+key features of iam is 
+user 
+groups
+roles
+MFA
+
+permissions
+
